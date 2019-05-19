@@ -4,6 +4,8 @@
 
 - Deploy NGINX as an API gateway
 - Log correlation with correlation identifier usage
+- Tracing with Jaeger
+
 
 ## Serverless
 
@@ -12,3 +14,5 @@
 
 
 ## Firebase
+
+- Firestore usage, JavaScript observables
